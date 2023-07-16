@@ -1,2 +1,9 @@
 
 *.jpg
+models/tranfer_learning.pth
+models/tl_model_v1.weights.best.hdf5
+models/CNN.sav
+models/CNN.keras
+models/tranfer_learning.pth
+models/tranfer_learning.pth
+models/transfer_learning.pt
