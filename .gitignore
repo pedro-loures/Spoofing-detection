@@ -7,3 +7,4 @@ models/CNN.keras
 models/tranfer_learning.pth
 models/tranfer_learning.pth
 models/transfer_learning.pt
+*.pt
