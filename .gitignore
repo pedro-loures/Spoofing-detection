@@ -9,3 +9,4 @@ models/tranfer_learning.pth
 models/transfer_learning.pt
 *.pt
 *.hdf5
+*.keras
